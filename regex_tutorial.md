@@ -87,6 +87,6 @@ For example in "wallmart"
 
 ## Author
 
-![alt text](./assets/images/my_profile_pic.jpg)
+![alt text](./assets/images/my_profile_pic.jpg =x250){:target="\_blank"}
 [For more information about the author, please click here](https://ghashe.github.io/advanced-css-challenge-professional-portfolio/)  
 [To view the author's github account, click here](https://github.com/ghashe)
