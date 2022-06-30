@@ -86,7 +86,7 @@ For example in "wallmart"
 - W3schools: [JavaScript RegExp Tutorial](https://www.w3schools.blog/regexp-javascript-tutorial)
 
 ## Author
+<img src="my_profile_pic.jpg" width="400">  
 
-![alt text](./assets/images/my_profile_pic.jpg =x250){:target="\_blank"}
 [For more information about the author, please click here](https://ghashe.github.io/advanced-css-challenge-professional-portfolio/)  
 [To view the author's github account, click here](https://github.com/ghashe)
